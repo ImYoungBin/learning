@@ -1,1 +1,6 @@
 # learning
+
+running in Ubuntu
+
+
+
