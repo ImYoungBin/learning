@@ -1,5 +1,4 @@
 # learning
 
-Running in Ubuntu
-coding trainee
+Running in Ubuntu from coding trainee
 
