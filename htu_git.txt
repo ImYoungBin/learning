@@ -3,9 +3,10 @@ How to use git
 1. Make repasitory git and local
 2. git init 
 3. git clone 'Git repasitory http address'
+(= git remote add 'nickname' 'http address')
 4. git status   # Showing the list of uploadable things
 5. git add file/folder
 6. git commit -m 'what is change'
 7. git push
 8. Type the user id and password
-
+9. git pull     # if you do Somethings to change in browser
