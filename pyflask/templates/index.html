@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html land = 'ko'>
+<head>
+	<meta charset="UTF-8">
+	<meta name='viewport' content="width=device-width, initial-scale=1.0">
+	<meta http=equiv='X_UA_Compatible' content="ie=edge">
+	{% if title %}
+	<title>Flask index</title>
+	{% endif %}
+</head>
+
+<body>
+<h1>Bind String: {{ home_str }}</h1>
+<h2>{{ title }}</h2>
+<p>This page is for Flask tutorial 2.</p>
+<p>Bind list value: {{ home_list[2:4] }}</p>
+<ul>
+	{% for idx in home_list %}
+	<li>{{ idx }}</li>
+	{% endfor %}
+</ul>
+</body>
+</html>
+
