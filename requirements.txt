@@ -6,7 +6,7 @@ chardet==3.0.4
 coreapi==2.3.3
 coreschema==0.0.4
 distlib==0.3.0
-Django==2.1.1
+Django==2.2.13
 django-cors-headers==3.2.1
 django-email-utils==0.1.1
 django-rest-email-auth==2.1.0
